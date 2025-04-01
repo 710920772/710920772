@@ -27,8 +27,7 @@
 ---
 
 ## 📫 联系我
-- 🔗 [个人博客](https://example.com)：分享我的技术与研究  
-- 📧 邮箱：[example@example.com](mailto:example@example.com)  
+- 📧 邮箱：[710920772@qq.com](710920772@qq.com)  
 
 ---
 
